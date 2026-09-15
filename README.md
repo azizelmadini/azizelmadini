@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz El Madini</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-
-- 🔭 I’m currently working as web developer at [DPG](https://digital-partnership.com/en/home/)
+<h3 align="center">A passionate developer from Morocco</h3>
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/azizelmadini/)
 
